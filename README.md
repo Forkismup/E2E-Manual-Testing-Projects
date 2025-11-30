@@ -136,6 +136,28 @@ E2E-Manual-Testing-Projects
 └── README.md
 ```
 
+
+## Screenshots
+
+* Amazon_Manual_Testing_Template
+
+
+* TestCase_BD-SHOP
+
+  
+
+* TestCase_BetterReturn
+
+
+* TestCase_Mimo
+
+
+* TestCase_Rokomari.com
+
+
+* TestCase_SoloLearn
+
+
 ---
 
 ## Purpose of This Repository
