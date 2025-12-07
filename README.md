@@ -198,9 +198,9 @@ This repository demonstrates:
 ## Author
 
 Debasish
-Manual QA and Automation Engineer
+Cloud DevOps QA and Automation Engineer
 GitHub: [https://github.com/Debasish-87](https://github.com/Debasish-87)
-Email: Add your email here
-LinkedIn: Add your LinkedIn link here
+Email:  debasishm8765@gmail.com
+LinkedIn: https://www.linkedin.com/in/debasish-mohanty-8765d/
 
 ---
